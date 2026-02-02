@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import { Chrome, BookOpen, Trophy, Users } from 'lucide-react'
+import { Chromium as Chrome, BookOpen, Trophy, Users } from 'lucide-react'
 import { useAuth } from '../hooks/useAuth'
 import { GlassCard } from './GlassCard'
 

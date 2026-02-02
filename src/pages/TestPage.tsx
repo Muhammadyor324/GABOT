@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
-import { ArrowLeft, Clock, CheckCircle, XCircle, Award, RotateCcw } from 'lucide-react'
+import { ArrowLeft, Clock, CircleCheck as CheckCircle, Circle as XCircle, Award, RotateCcw } from 'lucide-react'
 import { supabase, Test, Question, TestResult } from '../lib/supabase'
 import { useAuth } from '../hooks/useAuth'
 import { GlassCard } from '../components/GlassCard'

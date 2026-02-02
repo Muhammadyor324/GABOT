@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import { Trophy, User, LogOut, Settings, Home } from 'lucide-react'
+import { Trophy, User, LogOut, Settings, Hop as Home } from 'lucide-react'
 import { useAuth } from '../hooks/useAuth'
 import { GlassCard } from './GlassCard'
 

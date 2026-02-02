@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
-import { Plus, Edit, Trash2, BookOpen, FileText, Users, BarChart3, Save, X } from 'lucide-react'
+import { Plus, CreditCard as Edit, Trash2, BookOpen, FileText, Users, ChartBar as BarChart3, Save, X } from 'lucide-react'
 import { supabase, Subject, Test, Question } from '../lib/supabase'
 import { GlassCard } from '../components/GlassCard'
 
